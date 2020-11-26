@@ -1,0 +1,6 @@
+com/example/gmach4u/BuildConfig.java
+ com.example.gmach4u.BuildConfig
+com/example/gmach4u/loginClient.java
+ com.example.gmach4u.loginClient
+com/example/gmach4u/MainActivity.java
+ com.example.gmach4u.MainActivity
