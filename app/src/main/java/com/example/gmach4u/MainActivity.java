@@ -8,32 +8,39 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-Button enter;
-Button join;
+Button login;
+Button register;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        enter=(Button)findViewById(R.id.enter);
+        login=(Button)findViewById(R.id.login);
      //   button2=(Button)findViewById(R.id.button2);
-        join=(Button)findViewById(R.id.register);
+        register=(Button)findViewById(R.id.register);
 //        welcome=(TextView)findViewById(R.id.txtwelcome);
-        enter.setOnClickListener(this);
+        login.setOnClickListener(this);
       //  button2.setOnClickListener(this);
-        join.setOnClickListener(this);
+        register.setOnClickListener(this);
     }
 
     @Override
     public void onClick(View v) {
-        if(join==v){
+        if(login==v){
             openLoginClient();
+        }
+        if(register==v){
+            openRegister();
         }
 
     }
     public void openLoginClient(){
-        Intent intent = new Intent(this,loginClient.class);
+        Intent intent = new Intent(this,loginActivity.class);
+        startActivity(intent);
+    }
+    public void openRegister(){
+        Intent intent = new Intent(this,RegisterActivity.class);
         startActivity(intent);
     }
 }

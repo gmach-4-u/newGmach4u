@@ -18,7 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Gmach4U" >
-        <activity android:name="com.example.gmach4u.loginClient" />
+        <activity android:name="com.example.gmach4u.loginActivity" />
+        <activity android:name="com.example.gmach4u.RegisterActivity" />
         <activity android:name="com.example.gmach4u.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

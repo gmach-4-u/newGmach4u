@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-27:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\chenk\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\chenk\.gradle\caches\transforms-2\files-2.1\ec4dd897d4037390d3cac18fc3984d5c\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\chenk\.gradle\caches\transforms-2\files-2.1\a527ad4f532df6b258c428a911debd89\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -32,25 +32,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\chenk\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\chenk\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\chenk\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\chenk\.gradle\caches\transforms-2\files-2.1\01339aeadc2379d14234ec1725fb1d1d\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:5:5-25:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\chenk\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\chenk\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\chenk\.gradle\caches\transforms-2\files-2.1\ec4dd897d4037390d3cac18fc3984d5c\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -73,30 +73,34 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ch
 		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:11:9-45
-activity#com.example.gmach4u.loginClient
-ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:12:9-58
+activity#com.example.gmach4u.loginActivity
+ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:12:9-60
 	android:name
-		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:12:19-46
+		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:12:19-48
+activity#com.example.gmach4u.RegisterActivity
+ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:13:9-54
+	android:name
+		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:13:19-51
 activity#com.example.gmach4u.MainActivity
-ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:18:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:21:9-23:57
+ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:22:9-24:57
 	android:resource
-		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:23:13-54
+		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:24:13-54
 	android:name
-		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:22:13-43
+		ADDED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml:23:13-43
 uses-sdk
 INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\chenk\AndroidStudioProjects\Gmach4U\app\src\main\AndroidManifest.xml
