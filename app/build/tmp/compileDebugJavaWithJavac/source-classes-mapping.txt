@@ -1,8 +1,10 @@
 com/example/gmach4u/BuildConfig.java
  com.example.gmach4u.BuildConfig
-com/example/gmach4u/RegisterActivity.java
- com.example.gmach4u.RegisterActivity
+com/example/gmach4u/userHelper.java
+ com.example.gmach4u.userHelper
 com/example/gmach4u/loginActivity.java
  com.example.gmach4u.loginActivity
+com/example/gmach4u/RegisterActivity.java
+ com.example.gmach4u.RegisterActivity
 com/example/gmach4u/MainActivity.java
  com.example.gmach4u.MainActivity
