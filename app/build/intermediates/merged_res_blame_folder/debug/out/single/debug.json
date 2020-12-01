@@ -44,10 +44,6 @@
         "source": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
@@ -56,12 +52,16 @@
         "source": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\src\\main\\res\\font\\architects_daughter.xml"
     },
     {
-        "merged": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\chenk\\AndroidStudioProjects\\Gmach4U\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
