@@ -9,7 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Gmach4U">
-        <activity android:name=".SupplierRegister"></activity>
+        <activity android:name=".Product"></activity>
+        <activity android:name=".SearchHistory" />
+        <activity android:name=".GmachStockSupplier" />
+        <activity android:name=".GmachCustomers" />
+        <activity android:name=".Chat" />
+        <activity android:name=".GmachStockClient" />
+        <activity android:name=".GmachDetails" />
+        <activity android:name=".SearchResults" />
+        <activity android:name=".PrivateZone" />
+        <activity android:name=".MainSupplier" />
+        <activity android:name=".SupplierRegister" />
         <activity android:name=".ClientRegister" /> <!-- <activity android:name=".clientRegister" /> -->
         <activity android:name=".MainActivity" />
         <activity android:name=".loginActivity">
