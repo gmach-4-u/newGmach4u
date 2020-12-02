@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">390335898774-jijrh1d8d0lav44k4a4kbrfbf6j7v3gk.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://gmach4u-c723e.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">390335898774</string>
-    <string name="google_api_key" translatable="false">AIzaSyCqkV0WmLU3TpD3_PnYixbkRsDOxj-0jRE</string>
-    <string name="google_app_id" translatable="false">1:390335898774:android:9814f14782fc2970640eb7</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCqkV0WmLU3TpD3_PnYixbkRsDOxj-0jRE</string>
-    <string name="google_storage_bucket" translatable="false">gmach4u-c723e.appspot.com</string>
-    <string name="project_id" translatable="false">gmach4u-c723e</string>
+    <string name="default_web_client_id" translatable="false">50794303262-gp1phhdn8f06ho9d0vqua1atcgvlsgnv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gmach4u-280d6.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">50794303262</string>
+    <string name="google_api_key" translatable="false">AIzaSyDtJpf_JKmSJudOgRpvrRDQ0bpxnerh2VQ</string>
+    <string name="google_app_id" translatable="false">1:50794303262:android:d6f7ea5e11b42d47d8030f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDtJpf_JKmSJudOgRpvrRDQ0bpxnerh2VQ</string>
+    <string name="google_storage_bucket" translatable="false">gmach4u-280d6.appspot.com</string>
+    <string name="project_id" translatable="false">gmach4u-280d6</string>
 </resources>

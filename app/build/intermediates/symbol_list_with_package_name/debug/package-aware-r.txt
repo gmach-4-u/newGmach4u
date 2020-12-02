@@ -1629,6 +1629,7 @@ id ALT
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
+id Email
 id FUNCTION
 id META
 id NO_DEBUG
@@ -1723,7 +1724,6 @@ id center_horizontal
 id center_vertical
 id chain
 id chains
-id checkBox
 id checkbox
 id checked
 id chip
@@ -1734,6 +1734,7 @@ id chip_group
 id chronometer
 id city
 id clear_text
+id clientRegist
 id clip_horizontal
 id clip_vertical
 id collapseActionView
@@ -1865,7 +1866,6 @@ id mtrl_picker_text_input_range_end
 id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id multiply
-id name
 id navigation_header_container
 id never
 id noScroll
@@ -1900,7 +1900,6 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
-id register
 id reverseSawtooth
 id right
 id right_icon
@@ -1961,6 +1960,7 @@ id stretch
 id submenuarrow
 id submit
 id submit_area
+id supplierRegist
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -1980,9 +1980,7 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView
 id textView2
-id textView4
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -2007,7 +2005,6 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-id tvUserLogin
 id unchecked
 id uniform
 id unlabeled
@@ -2083,9 +2080,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_client_register
 layout activity_login
 layout activity_main
-layout activity_register
+layout activity_supplier_register
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

@@ -25,9 +25,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Gmach4U" >
-        <activity android:name="com.example.gmach4u.loginActivity" />
-        <activity android:name="com.example.gmach4u.RegisterActivity" />
-        <activity android:name="com.example.gmach4u.MainActivity" >
+        <activity android:name="com.example.gmach4u.SupplierRegister" />
+        <activity android:name="com.example.gmach4u.ClientRegister" /> <!-- <activity android:name=".clientRegister" /> -->
+        <activity android:name="com.example.gmach4u.MainActivity" />
+        <activity android:name="com.example.gmach4u.loginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
