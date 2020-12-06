@@ -6,9 +6,8 @@ com/example/gmach4u/MainSupplier.java
  com.example.gmach4u.MainSupplier
 com/example/gmach4u/SearchHistory.java
  com.example.gmach4u.SearchHistory
-com/example/gmach4u/loginActivity.java
- com.example.gmach4u.loginActivity
- com.example.gmach4u.loginActivity$1
+com/example/gmach4u/userHelper.java
+ com.example.gmach4u.userHelper
 com/example/gmach4u/Product.java
  com.example.gmach4u.Product
 com/example/gmach4u/GmachCustomers.java
@@ -29,7 +28,9 @@ com/example/gmach4u/BuildConfig.java
  com.example.gmach4u.BuildConfig
 com/example/gmach4u/SearchResults.java
  com.example.gmach4u.SearchResults
+com/example/gmach4u/loginActivity.java
+ com.example.gmach4u.loginActivity
+ com.example.gmach4u.loginActivity$1
 com/example/gmach4u/MainActivity.java
  com.example.gmach4u.MainActivity
-com/example/gmach4u/userHelper.java
- com.example.gmach4u.userHelper
+ com.example.gmach4u.MainActivity$1

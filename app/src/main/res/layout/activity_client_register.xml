@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:layout_gravity="center"
     android:background="@drawable/city"
-    tools:context=".ClientRegister">    <TextView
+    tools:context="Activities.ClientRegister">    <TextView
         android:id="@+id/SignUp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
