@@ -1718,6 +1718,7 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btnLogout
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1893,7 +1894,6 @@ id peekHeight
 id percent
 id phoneNumber
 id pin
-id pop
 id position
 id postLayout
 id progress_circular
