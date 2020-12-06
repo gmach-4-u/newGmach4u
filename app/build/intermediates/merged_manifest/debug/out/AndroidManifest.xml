@@ -25,6 +25,16 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Gmach4U" >
+        <activity android:name="com.example.gmach4u.Product" />
+        <activity android:name="com.example.gmach4u.SearchHistory" />
+        <activity android:name="com.example.gmach4u.GmachStockSupplier" />
+        <activity android:name="com.example.gmach4u.GmachCustomers" />
+        <activity android:name="com.example.gmach4u.Chat" />
+        <activity android:name="com.example.gmach4u.GmachStockClient" />
+        <activity android:name="com.example.gmach4u.GmachDetails" />
+        <activity android:name="com.example.gmach4u.SearchResults" />
+        <activity android:name="com.example.gmach4u.PrivateZone" />
+        <activity android:name="com.example.gmach4u.MainSupplier" />
         <activity android:name="com.example.gmach4u.SupplierRegister" />
         <activity android:name="com.example.gmach4u.ClientRegister" /> <!-- <activity android:name=".clientRegister" /> -->
         <activity android:name="com.example.gmach4u.MainActivity" />

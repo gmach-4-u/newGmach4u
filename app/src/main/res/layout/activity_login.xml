@@ -7,10 +7,10 @@
     android:layout_height="match_parent"
     android:layout_gravity="center"
     android:background="@drawable/city"
-    tools:context=".MainActivity">
+    tools:context="Activities.loginActivity">
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/Info"
         android:layout_width="349dp"
         android:layout_height="89dp"
         android:layout_alignParentStart="true"
@@ -76,7 +76,7 @@
         app:layout_constraintVertical_bias="0.326" />
 
     <EditText
-        android:id="@+id/pasword"
+        android:id="@+id/password"
         android:layout_width="351dp"
         android:layout_height="62dp"
         android:layout_alignParentStart="true"

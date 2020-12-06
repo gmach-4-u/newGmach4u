@@ -9,20 +9,20 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Gmach4U">
-        <activity android:name=".Product"></activity>
-        <activity android:name=".SearchHistory" />
-        <activity android:name=".GmachStockSupplier" />
-        <activity android:name=".GmachCustomers" />
-        <activity android:name=".Chat" />
-        <activity android:name=".GmachStockClient" />
-        <activity android:name=".GmachDetails" />
-        <activity android:name=".SearchResults" />
-        <activity android:name=".PrivateZone" />
-        <activity android:name=".MainSupplier" />
-        <activity android:name=".SupplierRegister" />
-        <activity android:name=".ClientRegister" /> <!-- <activity android:name=".clientRegister" /> -->
-        <activity android:name=".MainActivity" />
-        <activity android:name=".loginActivity">
+        <activity android:name="Activities.Product"></activity>
+        <activity android:name="Activities.SearchHistory" />
+        <activity android:name="Activities.GmachStockSupplier" />
+        <activity android:name="Activities.GmachCustomers" />
+        <activity android:name="Activities.Chat" />
+        <activity android:name="Activities.GmachStockClient" />
+        <activity android:name="Activities.GmachDetails" />
+        <activity android:name="Activities.SearchResults" />
+        <activity android:name="Activities.PrivateZone" />
+        <activity android:name="Activities.MainSupplier" />
+        <activity android:name="Activities.SupplierRegister" />
+        <activity android:name="Activities.ClientRegister" /> <!-- <activity android:name=".clientRegister" /> -->
+        <activity android:name="Activities.MainActivity" />
+        <activity android:name="Activities.loginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
