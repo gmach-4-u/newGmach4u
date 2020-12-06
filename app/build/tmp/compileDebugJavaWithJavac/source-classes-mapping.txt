@@ -1,36 +1,38 @@
-com/example/gmach4u/GmachStockClient.java
- com.example.gmach4u.GmachStockClient
-com/example/gmach4u/SupplierRegister.java
- com.example.gmach4u.SupplierRegister
-com/example/gmach4u/MainSupplier.java
- com.example.gmach4u.MainSupplier
-com/example/gmach4u/SearchHistory.java
- com.example.gmach4u.SearchHistory
-com/example/gmach4u/userHelper.java
- com.example.gmach4u.userHelper
-com/example/gmach4u/Product.java
- com.example.gmach4u.Product
-com/example/gmach4u/GmachCustomers.java
- com.example.gmach4u.GmachCustomers
-com/example/gmach4u/GmachStockSupplier.java
- com.example.gmach4u.GmachStockSupplier
-com/example/gmach4u/Chat.java
- com.example.gmach4u.Chat
-com/example/gmach4u/PrivateZone.java
- com.example.gmach4u.PrivateZone
-com/example/gmach4u/GmachDetails.java
- com.example.gmach4u.GmachDetails
-com/example/gmach4u/ClientRegister.java
- com.example.gmach4u.ClientRegister
- com.example.gmach4u.ClientRegister$1
- com.example.gmach4u.ClientRegister$1$1
+Activities/PrivateZone.java
+ Activities.PrivateZone
+Activities/SearchResults.java
+ Activities.SearchResults
+Adapters/Supplier.java
+ Adapters.Supplier
+Activities/Chat.java
+ Activities.Chat
+Activities/loginActivity.java
+ Activities.loginActivity
+ Activities.loginActivity$1
+Activities/GmachCustomers.java
+ Activities.GmachCustomers
+Adapters/Client.java
+ Adapters.Client
+Activities/SearchHistory.java
+ Activities.SearchHistory
+Activities/MainActivity.java
+ Activities.MainActivity
+ Activities.MainActivity$1
+Activities/MainSupplier.java
+ Activities.MainSupplier
+Activities/SupplierRegister.java
+ Activities.SupplierRegister
 com/example/gmach4u/BuildConfig.java
  com.example.gmach4u.BuildConfig
-com/example/gmach4u/SearchResults.java
- com.example.gmach4u.SearchResults
-com/example/gmach4u/loginActivity.java
- com.example.gmach4u.loginActivity
- com.example.gmach4u.loginActivity$1
-com/example/gmach4u/MainActivity.java
- com.example.gmach4u.MainActivity
- com.example.gmach4u.MainActivity$1
+Activities/GmachDetails.java
+ Activities.GmachDetails
+Activities/GmachStockSupplier.java
+ Activities.GmachStockSupplier
+Activities/Product.java
+ Activities.Product
+Activities/ClientRegister.java
+ Activities.ClientRegister
+ Activities.ClientRegister$1
+ Activities.ClientRegister$1$1
+Activities/GmachStockClient.java
+ Activities.GmachStockClient
