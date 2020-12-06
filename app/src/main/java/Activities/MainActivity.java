@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private Button Logout;
     FirebaseAuth firebaseAuth;
     //Noa
+    //Noa2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
