@@ -7,7 +7,7 @@ import android.os.Bundle;
 import com.example.gmach4u.R;
 
 public class SupplierRegister extends AppCompatActivity {
-
+//test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
