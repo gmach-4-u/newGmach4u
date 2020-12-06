@@ -16,7 +16,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class ClientRegister extends AppCompatActivity {
-    private  EditText userName, userPassword, userEmail;
+    private  EditText userName, userPassword, userEmail,userPhone;
     private Button regButton;
 
 
@@ -41,10 +41,10 @@ public class ClientRegister extends AppCompatActivity {
                                 @Override
                                 public void onComplete(@NonNull Task<AuthResult> task) {
                                     if(task.isSuccessful()) {
-                                        Toast.makeText(ClientRegister.this, "regist success", Toast.LENGTH_SHORT).show();
+                                        Toast.makeText(ClientRegister.this, "Registration successful", Toast.LENGTH_SHORT).show();
                                         startActivity(new Intent(ClientRegister.this,MainActivity.class));
                                     } else{
-                                        Toast.makeText(ClientRegister.this, "regist not success", Toast.LENGTH_SHORT).show();
+                                        Toast.makeText(ClientRegister.this, "Registration failed", Toast.LENGTH_SHORT).show();
                                         task.getException();
                                     }//end else
                                 }//end Oncomplete
@@ -65,6 +65,8 @@ public class ClientRegister extends AppCompatActivity {
         userPassword= (EditText) findViewById(R.id.password1);
         userEmail= (EditText) findViewById(R.id.email1);
         regButton=(Button) findViewById(R.id.submit);
+        userPhone= (EditText) findViewById(R.id.Phone);
+
     }
 
     private boolean validate(){
@@ -73,10 +75,25 @@ public class ClientRegister extends AppCompatActivity {
         String name= userName.getText().toString();
         String password= userPassword.getText().toString();
         String email= userEmail.getText().toString();
+        String phone= userPhone.getText().toString();
 
         if(name.isEmpty() && password.isEmpty() && email.isEmpty()){
-            Toast.makeText(this,"please",Toast.LENGTH_SHORT).show();
-        }else{
+            Toast.makeText(this,"please enter all the details",Toast.LENGTH_SHORT).show();
+        }
+        else if(!name.matches("^[a-zA-Z]+\\s[a-zA-Z\\s]+$")) {
+            Toast.makeText(this, "Please enter your full name (in English)", Toast.LENGTH_SHORT).show();
+        }
+        else if(!email.matches("^\\w+@[a-zA-Z_]+?\\.[a-zA-Z]{2,3}$")){
+            Toast.makeText(this, "Please enter valid Email", Toast.LENGTH_SHORT).show();
+        }
+        else if(password.length() < 6){
+            Toast.makeText(this, "Password length must be at least 6 characters", Toast.LENGTH_SHORT).show();
+        }
+        else if(!phone.matches("^[0-9]+$") || phone.length() != 10){
+            Toast.makeText(this, "Please enter valid phone number", Toast.LENGTH_SHORT).show();
+
+        }
+        else{
             result=true;
         }
         return result;

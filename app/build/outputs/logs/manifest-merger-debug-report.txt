@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-38:12
 MERGED from [com.google.firebase:firebase-core:18.0.0] C:\Users\Chen\.gradle\caches\transforms-2\files-2.1\d999f81f9c733bd1908e6dbecba4e701\jetified-firebase-core-18.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:18.0.0] C:\Users\Chen\.gradle\caches\transforms-2\files-2.1\859a1248b14ff90d85027d9b1bf9e0b6\jetified-firebase-analytics-18.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-database:19.5.1] C:\Users\Chen\.gradle\caches\transforms-2\files-2.1\5d0f838f2b8ef4bfd28f8262d3c8429b\jetified-firebase-database-19.5.1\AndroidManifest.xml:15:1-38:12
@@ -60,25 +60,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Chen\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Chen\.gradle\caches\transforms-2\files-2.1\3efae7f87f8fb15dcf1f34473eb75964\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Chen\.gradle\caches\transforms-2\files-2.1\4d43431ba977acfaa5f80826d23a5d96\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Chen\.gradle\caches\transforms-2\files-2.1\bc08a9b8e8d88a4a706f5b1d66b83db9\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-38:12
 		INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:1-38:12
 		INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:5:5-36:19
 MERGED from [com.google.firebase:firebase-core:18.0.0] C:\Users\Chen\.gradle\caches\transforms-2\files-2.1\d999f81f9c733bd1908e6dbecba4e701\jetified-firebase-core-18.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:18.0.0] C:\Users\Chen\.gradle\caches\transforms-2\files-2.1\d999f81f9c733bd1908e6dbecba4e701\jetified-firebase-core-18.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:18.0.0] C:\Users\Chen\.gradle\caches\transforms-2\files-2.1\859a1248b14ff90d85027d9b1bf9e0b6\jetified-firebase-analytics-18.0.0\AndroidManifest.xml:7:5-20
@@ -139,38 +139,78 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ch
 		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:11:9-45
+activity#com.example.gmach4u.Product
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:9-54
+	android:name
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:19-42
+activity#com.example.gmach4u.SearchHistory
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:9-51
+	android:name
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:19-48
+activity#com.example.gmach4u.GmachStockSupplier
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:9-56
+	android:name
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:19-53
+activity#com.example.gmach4u.GmachCustomers
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:9-52
+	android:name
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:19-49
+activity#com.example.gmach4u.Chat
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:9-42
+	android:name
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:19-39
+activity#com.example.gmach4u.GmachStockClient
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:19-51
+activity#com.example.gmach4u.GmachDetails
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:18:19-47
+activity#com.example.gmach4u.SearchResults
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.gmach4u.PrivateZone
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:20:9-49
+	android:name
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:20:19-46
+activity#com.example.gmach4u.MainSupplier
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:21:19-47
 activity#com.example.gmach4u.SupplierRegister
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:9-63
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:22:9-54
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:19-51
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:22:19-51
 activity#com.example.gmach4u.ClientRegister
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:9-52
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:9-52
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:19-49
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:19-49
 activity#com.example.gmach4u.MainActivity
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:9-50
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:9-50
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:19-47
 activity#com.example.gmach4u.loginActivity
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:19-48
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:25:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:29:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:9-25:57
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:33:9-35:57
 	android:resource
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:25:13-54
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:35:13-54
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:13-43
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:34:13-43
 uses-sdk
 INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml
