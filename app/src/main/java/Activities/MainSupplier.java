@@ -7,6 +7,7 @@ import android.os.Bundle;
 import com.example.gmach4u.R;
 
 public class MainSupplier extends AppCompatActivity {
+    //oriya
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

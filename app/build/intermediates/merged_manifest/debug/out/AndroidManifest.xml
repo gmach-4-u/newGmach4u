@@ -25,20 +25,20 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Gmach4U" >
-        <activity android:name="com.example.gmach4u.Product" />
-        <activity android:name="com.example.gmach4u.SearchHistory" />
-        <activity android:name="com.example.gmach4u.GmachStockSupplier" />
-        <activity android:name="com.example.gmach4u.GmachCustomers" />
-        <activity android:name="com.example.gmach4u.Chat" />
-        <activity android:name="com.example.gmach4u.GmachStockClient" />
-        <activity android:name="com.example.gmach4u.GmachDetails" />
-        <activity android:name="com.example.gmach4u.SearchResults" />
-        <activity android:name="com.example.gmach4u.PrivateZone" />
-        <activity android:name="com.example.gmach4u.MainSupplier" />
-        <activity android:name="com.example.gmach4u.SupplierRegister" />
-        <activity android:name="com.example.gmach4u.ClientRegister" /> <!-- <activity android:name=".clientRegister" /> -->
-        <activity android:name="com.example.gmach4u.MainActivity" />
-        <activity android:name="com.example.gmach4u.loginActivity" >
+        <activity android:name="Activities.Product" />
+        <activity android:name="Activities.SearchHistory" />
+        <activity android:name="Activities.GmachStockSupplier" />
+        <activity android:name="Activities.GmachCustomers" />
+        <activity android:name="Activities.Chat" />
+        <activity android:name="Activities.GmachStockClient" />
+        <activity android:name="Activities.GmachDetails" />
+        <activity android:name="Activities.SearchResults" />
+        <activity android:name="Activities.PrivateZone" />
+        <activity android:name="Activities.MainSupplier" />
+        <activity android:name="Activities.SupplierRegister" />
+        <activity android:name="Activities.ClientRegister" /> <!-- <activity android:name=".clientRegister" /> -->
+        <activity android:name="Activities.MainActivity" />
+        <activity android:name="Activities.loginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
