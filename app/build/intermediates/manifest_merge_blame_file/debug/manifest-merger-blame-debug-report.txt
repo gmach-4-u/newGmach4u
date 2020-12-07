@@ -43,48 +43,48 @@
 26        android:testOnly="true"
 27        android:theme="@style/Theme.Gmach4U" >
 27-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:11:9-45
-28        <activity android:name="com.example.gmach4u.Product" />
-28-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:9-54
-28-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:19-42
-29        <activity android:name="com.example.gmach4u.SearchHistory" />
-29-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:9-51
-29-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:19-48
-30        <activity android:name="com.example.gmach4u.GmachStockSupplier" />
-30-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:9-56
-30-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:19-53
-31        <activity android:name="com.example.gmach4u.GmachCustomers" />
-31-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:9-52
-31-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:19-49
-32        <activity android:name="com.example.gmach4u.Chat" />
-32-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:9-42
-32-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:19-39
-33        <activity android:name="com.example.gmach4u.GmachStockClient" />
-33-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:9-54
-33-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:19-51
-34        <activity android:name="com.example.gmach4u.GmachDetails" />
-34-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:18:9-50
-34-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:18:19-47
-35        <activity android:name="com.example.gmach4u.SearchResults" />
-35-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:9-51
-35-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:19-48
-36        <activity android:name="com.example.gmach4u.PrivateZone" />
-36-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:20:9-49
-36-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:20:19-46
-37        <activity android:name="com.example.gmach4u.MainSupplier" />
-37-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:21:9-50
-37-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:21:19-47
-38        <activity android:name="com.example.gmach4u.SupplierRegister" />
-38-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:22:9-54
-38-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:22:19-51
-39        <activity android:name="com.example.gmach4u.ClientRegister" /> <!-- <activity android:name=".clientRegister" /> -->
-39-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:9-52
-39-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:19-49
-40        <activity android:name="com.example.gmach4u.MainActivity" />
-40-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:9-50
-40-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:19-47
-41        <activity android:name="com.example.gmach4u.loginActivity" >
+28        <activity android:name="Activities.Product" />
+28-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:9-64
+28-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:19-52
+29        <activity android:name="Activities.SearchHistory" />
+29-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:9-61
+29-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:19-58
+30        <activity android:name="Activities.GmachStockSupplier" />
+30-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:9-66
+30-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:19-63
+31        <activity android:name="Activities.GmachCustomers" />
+31-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:9-62
+31-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:19-59
+32        <activity android:name="Activities.Chat" />
+32-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:9-52
+32-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:19-49
+33        <activity android:name="Activities.GmachStockClient" />
+33-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:9-64
+33-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:19-61
+34        <activity android:name="Activities.GmachDetails" />
+34-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:18:9-60
+34-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:18:19-57
+35        <activity android:name="Activities.SearchResults" />
+35-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:9-61
+35-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:19-58
+36        <activity android:name="Activities.PrivateZone" />
+36-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:20:9-59
+36-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:20:19-56
+37        <activity android:name="Activities.MainSupplier" />
+37-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:21:9-60
+37-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:21:19-57
+38        <activity android:name="Activities.SupplierRegister" />
+38-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:22:9-64
+38-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:22:19-61
+39        <activity android:name="Activities.ClientRegister" /> <!-- <activity android:name=".clientRegister" /> -->
+39-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:9-62
+39-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:19-59
+40        <activity android:name="Activities.MainActivity" />
+40-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:9-60
+40-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:19-57
+41        <activity android:name="Activities.loginActivity" >
 41-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:25:9-31:20
-41-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:25:19-48
+41-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:25:19-58
 42            <intent-filter>
 42-->C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:26:13-30:29
 43                <action android:name="android.intent.action.MAIN" />

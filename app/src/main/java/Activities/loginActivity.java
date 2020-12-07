@@ -23,7 +23,7 @@ import com.google.firebase.database.FirebaseDatabase;
 
 
 public class loginActivity extends AppCompatActivity implements View.OnClickListener {
-    Button login,clientRegist,supplierRegist;
+    Button login,clientRegist,supplierRegist,mainSupplier;
     TextView info;
     private EditText userEmail,userPassword;
     FirebaseDatabase mDatabase ;
@@ -39,6 +39,9 @@ public class loginActivity extends AppCompatActivity implements View.OnClickList
 
         userPassword= (EditText) findViewById(R.id.password);
         userEmail= (EditText) findViewById(R.id.Email);
+
+        mainSupplier=(Button)findViewById(R.id.MainSupplier);
+        mainSupplier.setOnClickListener(this);
 
         login=(Button)findViewById(R.id.login);
         login.setOnClickListener(this);
@@ -94,7 +97,10 @@ public class loginActivity extends AppCompatActivity implements View.OnClickList
         if(supplierRegist==v){
             openSupplierRegister();
         }
-
+        if(mainSupplier==v){
+            Intent intent = new Intent(this, MainSupplier.class);
+            startActivity(intent);
+        }
     }
     public void openLoginClient(){
         validate(userEmail.getText().toString(),userPassword.getText().toString());

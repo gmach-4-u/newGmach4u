@@ -139,62 +139,62 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ch
 		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:11:9-45
-activity#com.example.gmach4u.Product
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:9-54
+activity#Activities.Product
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:9-64
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:19-42
-activity#com.example.gmach4u.SearchHistory
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:9-51
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:12:19-52
+activity#Activities.SearchHistory
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:9-61
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:19-48
-activity#com.example.gmach4u.GmachStockSupplier
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:9-56
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:13:19-58
+activity#Activities.GmachStockSupplier
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:9-66
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:19-53
-activity#com.example.gmach4u.GmachCustomers
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:9-52
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:14:19-63
+activity#Activities.GmachCustomers
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:9-62
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:19-49
-activity#com.example.gmach4u.Chat
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:9-42
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:15:19-59
+activity#Activities.Chat
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:9-52
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:19-39
-activity#com.example.gmach4u.GmachStockClient
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:16:19-49
+activity#Activities.GmachStockClient
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:9-64
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:19-51
-activity#com.example.gmach4u.GmachDetails
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:18:9-50
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:17:19-61
+activity#Activities.GmachDetails
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:18:9-60
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:18:19-47
-activity#com.example.gmach4u.SearchResults
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:9-51
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:18:19-57
+activity#Activities.SearchResults
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:9-61
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:19-48
-activity#com.example.gmach4u.PrivateZone
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:20:9-49
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:19:19-58
+activity#Activities.PrivateZone
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:20:9-59
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:20:19-46
-activity#com.example.gmach4u.MainSupplier
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:21:9-50
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:20:19-56
+activity#Activities.MainSupplier
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:21:9-60
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:21:19-47
-activity#com.example.gmach4u.SupplierRegister
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:22:9-54
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:21:19-57
+activity#Activities.SupplierRegister
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:22:9-64
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:22:19-51
-activity#com.example.gmach4u.ClientRegister
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:9-52
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:22:19-61
+activity#Activities.ClientRegister
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:9-62
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:19-49
-activity#com.example.gmach4u.MainActivity
-ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:9-50
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:23:19-59
+activity#Activities.MainActivity
+ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:9-60
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:19-47
-activity#com.example.gmach4u.loginActivity
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:24:19-57
+activity#Activities.loginActivity
 ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:25:19-48
+		ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:25:19-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\Chen\AndroidStudioProjects\newGmach4u\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
